@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Oct 30 01:44:52 2026
+Invocation: foremost -o /app/aperisolve/results/1c492578dea942c97bbc4124f4ac9df8/de440d84975a0d6e5a58437e567deb74/foremost -i ../1c492578dea942c97bbc4124f4ac9df8.jpg 
+Output directory: /app/aperisolve/results/1c492578dea942c97bbc4124f4ac9df8/de440d84975a0d6e5a58437e567deb74/foremost
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: ../1c492578dea942c97bbc4124f4ac9df8.jpg
+Start: Fri Oct 30 01:44:52 2026
+Length: 29 KB (29974 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      29 KB 	          0 	 
+Finish: Fri Oct 30 01:44:52 2026
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Oct 30 01:44:52 2026
