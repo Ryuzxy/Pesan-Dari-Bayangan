@@ -1,8 +1,10 @@
 # Analisis Pesan Dari Bayangan
 
-## Screenshot
+## Picture / Screenshot
 
-![Screenshot artefak gambar](quest02.jpg)
+![Picture: quest02.jpg](./quest02.jpg)
+
+_Picture yang dianalisis: `quest02.jpg`._
 
 ## Berkas
 
